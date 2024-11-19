@@ -13,6 +13,7 @@ poor accomodation planning . Through this project we hope to improve the custome
 
 1. Clone the repo using the command below
    > git clone https://github.com/Chege-Gitiche/KulaPro.git
+
 2.Open the project with Android Studio
 3.Let the Gradle build
 4.Have fun coding
