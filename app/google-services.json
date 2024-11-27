@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088002844098",
+    "project_id": "kulapro-61969",
+    "storage_bucket": "kulapro-61969.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088002844098:android:60207c893f312869dc225b",
+        "android_client_info": {
+          "package_name": "com.example.kulapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088002844098-315qckkll82sa6s83fj5ap3dtdudhj3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirhtWSV83dLXsy7LUgpJBk3B3y0khOJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088002844098-315qckkll82sa6s83fj5ap3dtdudhj3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
